@@ -13,3 +13,4 @@ This is my personal portfolio website built with HTML and CSS.
 ## 🛠️ Technologies Used
 - HTML
 - CSS
+- Bootstrap 
